@@ -13,14 +13,48 @@
             <div class="card">
                 <div class="card-header">
                     <a class="card-link" data-toggle="collapse" href="#collapseOne">
-                        Childrens Menus
+                        Childrens Buffet Menus
                     </a>
                 </div>
                 <div id="collapseOne" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                        <h3 style="font-weight:700;">Menu 1</h3>
+                        <h5 style="font-weight:600;">£7 per person</h5>
+                        <ul style="list-style-type: none;  margin: 0;
+                        padding: 0;">
+                            <li>Chicken Nuggets</li>
+                            <li>Sausage Rolls</li>
+                            <li>Cheese Cubes (v)</li>
+                            <li>Fruit Plater</li>
+                            <li>(Melon, Grapes, Orange, Banana)  (v)</li>
+                            <li>Sandwiches (Ham, Cheese  (v) )</li>
+                            <li>Crisps</li>
+                            <li>(Cheese Puffs, Prawn Cocktail Snacks ) (v)</li>
+                            <li>Cheese and Tomato Pizza (v)</li>
+                            <li>Bread Sticks  (v)</li>
+                            <li>Popcorn  (v)</li>
+                            <li>Jelly or Ice lollies</li>
+                        </ul>
+                        <br>
+                        <h3 style="font-weight:700;">Menu 2</h3>
+                        <h5 style="font-weight:600;">£9 per person</h5>
+                        <ul style="list-style-type: none;  margin: 0;
+                        padding: 0;">
+                            <li>Chicken Nuggets</li>
+                            <li>Sausage Rolls</li>
+                            <li>Cheese Cubes (v)</li>
+                            <li>Fruit Plater</li>
+                            <li>(Strawberries, Grapes, Blueberries, Raspberries)  (v)</li>
+                            <li>Sandwiches (Ham, Cheese  (v) )</li>
+                            <li>Crisps</li>
+                            <li>(Cheese Puffs, Prawn Cocktail Snacks, Bacon Rashers) ) (v)</li>
+                            <li>Cheese and Tomato Pizza (v)</li>
+                            <li>Crudités (Carrot, Cucumber,
+                                    Peppers, Tomatoes) (v</li>
+                            <li>Bread Sticks  (v)</li>
+                            <li>Popcorn  (v)</li>
+                            <li>Jelly or Ice lollies</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -32,9 +66,7 @@
                 </div>
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                   
                     </div>
                 </div>
             </div>
@@ -46,9 +78,7 @@
                 </div>
                 <div id="collapseThree" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                
                     </div>
                 </div>
             </div>
@@ -60,9 +90,7 @@
                 </div>
                 <div id="collapseFour" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                    
                     </div>
                 </div>
             </div>
@@ -74,9 +102,7 @@
                 </div>
                 <div id="collapseFive" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                    
                     </div>
                 </div>
             </div>
@@ -88,9 +114,7 @@
                 </div>
                 <div id="collapseSix" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                    
                     </div>
                 </div>
             </div>
@@ -102,9 +126,7 @@
                 </div>
                 <div id="collapseSeven" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                    
                     </div>
                 </div>
             </div>
@@ -116,9 +138,7 @@
                 </div>
                 <div id="collapseEight" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                      
                     </div>
                 </div>
             </div>
