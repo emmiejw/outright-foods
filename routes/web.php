@@ -19,7 +19,7 @@ Route::get('/food-menus', function () {
     return view('menus');
 });
 
-Route::get('/contacts', function () {
+Route::get('/contact-us', function () {
     return view('contact');
 });
 
