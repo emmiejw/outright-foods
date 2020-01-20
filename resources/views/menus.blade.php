@@ -161,7 +161,14 @@
                 </div>
                 <div id="collapseFour" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                    
+                            <h5 style="font-weight:600;">£5 per person</h5>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                    <li>2 Freshly Baked Scones (v)</li>
+                                    <li>Strawberry Jam (v)</li>
+                                    <li>Dorset Clotted Cream(v)</li>
+                                    <li>Tea or Coffee</li>
+                            </ul>
                     </div>
                 </div>
             </div>
@@ -173,7 +180,70 @@
                 </div>
                 <div id="collapseFive" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                    
+                    <h5>£12.95 per person</h5>
+                    <p style=" text-decoration: underline;">Sandwiches</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                              <ul style="list-style-type: none;  margin: 0;
+                              padding: 0;">
+                                      <li>Egg Mayonnaise & Chive (v)</li>
+                                      <li>Tuna Mayonnaise & Cucumber</li>
+                                      <li>Glazed Gammon & Wholegrain Mustard</li>
+                                      <li>Mature Cheddar & Pickle (v)</li>
+                              </ul>
+                    </ul>
+                    <hr>
+                    <p style=" text-decoration: underline;">Sweet Treats</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                            <li>Wild Berry Cupcake (v)</li>
+                            <li>Lemon Posset, Meringue</li>
+                            <li>Chocolate Mousse, Hazelnut Praline (v)</li>
+                            <li> Victoria Sponge, Vanilla Cream &
+                            Strawberries (v)</li>
+                    </ul>
+                    <hr>
+                    <p style=" text-decoration: underline;">Freshly Baked</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                          <li>Plain & Fruit Scones (v)</li>
+                          <li>Strawberry Jam & Dorset Clotted
+                          Cream (v)</li>
+                          <li>Tea or Coffee </li>
+                    </ul>
+                    <hr>
+                    <h5 class="my-2" style="font-weight:600;">Gentleman's Tea</h5>
+                    <h5>£12.95 per person</h5>
+                    <p style=" text-decoration: underline;">Savouries</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                              <ul style="list-style-type: none;  margin: 0;
+                              padding: 0;">
+                                      <li>Roast Beef & Horseradish</li>
+                                      <li>Pork Pie & Piccalilli</li>
+                                      <li>Sage & Shallot Sausage Roll</li>
+                                      <li>Quiche Lorraine,
+                                      Caramelised Onion</li>
+                              </ul>
+                    </ul>
+                    <hr>
+                    <p style=" text-decoration: underline;">Sweet Treats</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                        <li>Sticky Toffee Cake (v)</li>
+                        <li>Treacle Tart (v)</li>
+                        <li>Beer Cake (v)</li>
+                        <li>Chocolate & Orange Cookies </li>
+                    </ul>
+                    <hr>
+                    <p style=" text-decoration: underline;">Freshly Baked</p>
+                    <ul style="list-style-type: none;  margin: 0;
+                    padding: 0;">
+                          <li>Plain & Fruit Scones (v)</li>
+                          <li>Strawberry Jam & Dorset Clotted
+                          Cream (v)</li>
+                          <li>Tea or Coffee </li>
+                    </ul>
                     </div>
                 </div>
             </div>
