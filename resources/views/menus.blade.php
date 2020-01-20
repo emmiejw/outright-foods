@@ -12,7 +12,7 @@
         <div id="accordion" class="my-3">
             <div class="card">
                 <div class="card-header">
-                    <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                    <a class="card-link" data-toggle="collapse" href="#collapseOne"style="font-size:20px; color:#414858;">
                         Childrens Buffet Menus
                     </a>
                 </div>
@@ -55,36 +55,107 @@
                             <li>Popcorn  (v)</li>
                             <li>Jelly or Ice lollies</li>
                         </ul>
+                        <hr>
+                        <ul style="list-style-type: none;  margin: 0;
+                        padding: 0;">
+                            <li>Mini Chocolate Fountain</li>
+                            <li>(mini Doughnuts, marshmallows)</li>
+                            <li style="font-weight:700;">£1.50 per person</li>
+                        </ul>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo"style="font-size:20px; color:#414858;">
                         Children's Afternoon Tea
                     </a>
                 </div>
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                   
+                            <h5 style="font-weight:600;">£6.50 per person</h5>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                <li>Trio of Sandwiches</li>
+                                <li>(ham, strawberry jam & cheese)</li>
+                                <li>Selection of Sweet Treats</li>
+                                <li>Mini Fruit & Plain Scones (v)</li>
+                                <li>Strawberry Jam (v)</li>
+                                <li>Dorset Clotted Cream (v)</li>
+                                <li>Strawberry, Banana or Chocolate Milkshake (v)</li>
+                            </ul>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree"style="font-size:20px; color:#414858;">
                         Finger Buffet
                     </a>
                 </div>
                 <div id="collapseThree" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                
+                        <p style="font-weight:600;">Choice of four buffet options, two salads and two desserts - £10</p>
+                        <p style="font-weight:600;">Choice of five buffet options, three salads and three desserts - £14</p>
+                        <p style="font-weight:600;"> Choice of seven buffet options, four salads and three desserts - £18</p>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                    <li>Sandwich Selection</li>
+                                    <li>(inc vegetarian)</li>
+                                    <li>Crudités & Dips (v)</li>
+                                    <li>Bruschetta (v)</li>
+                                   <li> Cheese & Pineapple (v)</li>
+                                    <li>Melon & Cured Ham</li>
+                                    <li>Mini Quiche Lorraine</li>
+                                    <li>Chicken Satay</li>
+                                    <li>Pork Pies & Scotch</li>
+                                    <li>Eggs</li>
+                                    <li>Cocktail Sausages</li>
+                                    <li>Terrines & Pate</li>
+                                    <li>Chorizo & Red Onion</li>
+                                    <li>Pizza</li>
+                                    <li>Mini Burgers</li>
+                                    <li>Sausages Rolls</li>
+                                    <li>Mini Prawn Cocktails</li>
+                                    <li>Falafel (v)</li>
+                                    <li>Stuffed Jacket</li>
+                                    <li>Potatoes(inc vegetarian)</li>
+                                    <li>Mini Spring Rolls</li>
+                                    <li>Vegetable Kebabs (v)</li>
+                                    <li>Samosas</li>
+                                    <li>Salmon Fish Cakes</li>
+                                   <li> Lamb Koftas</li>
+                            </ul>
+                            <hr>
+                            <h3>Salads</h3>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                    <li>Baby Potato Salad (v)</li>
+                                    <li>Pasta & Provencal Vegetable (v)</li>
+                                    <li>Cous Cous (v)</li>
+                                    <li>Coleslaw (v)</li>
+                                    <li>Seasonal Mixed Leaf (v)</li>
+                                    <li>Tomato, Red Onion & Basil (v)</li>
+                                    <li>Waldorf (v)</li>
+                            </ul>
+                            <hr>
+                            <h3>Deserts</h3>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                   <li>Profiteroles, chocolate sauce (v)</li>
+                                   <li>Mini Lemon Meringue Pies (v)</li>
+                                   <li>Eton Mess (v)</li>
+                                   <li>Victoria Sponge (v)</li>
+                                   <li>Mini Banoffee Pies (v)</li>
+                                   <li>Fruit Platter (v)</li>
+                                   <li>Cheese Platter (v) (£2.50pp supp)</li>
+                            </ul>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour"style="font-size:20px; color:#414858;">
                         Cream Tea
                     </a>
                 </div>
@@ -96,7 +167,7 @@
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive"style="font-size:20px; color:#414858;">
                         Afternoon Tea
                     </a>
                 </div>
@@ -108,7 +179,7 @@
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSix">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSix"style="font-size:20px; color:#414858;">
                         Hot Fork Buffet
                     </a>
                 </div>
@@ -120,7 +191,7 @@
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven"style="font-size:20px;  color:#414858;">
                         BBQ Menu
                     </a>
                 </div>
@@ -132,7 +203,7 @@
             </div>
             <div class="card">
                 <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseEight" style="">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseEight" style="font-size:20px; color: #414858;">
                         Canapes
                     </a>
                 </div>
