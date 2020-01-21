@@ -9,9 +9,10 @@
             <div class="col-3"></div>
             <div class="col-3"></div>
             <div class="col-3"></div>            
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none;">
+          <span>
               <img src="/images/utensils.rotated.png" style="border:none; height:75px;  width:90px; rotate:90%" alt="">
+              <p>Menu</p>
           </span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
