@@ -19,10 +19,8 @@
     <style>
         html {
             font-family: 'Roboto', sans-serif;
-            font-weight: 200;
             height: 100vh;
             margin: 0;
-    
         }
 
         .intro {
@@ -122,9 +120,9 @@
 </head>
 
 <body>
-    <main class="text-center">
+        <main class="text-center">
         @yield('content')
-    </main>
+    </main>   
     @extends('sections.footer')
 </body>
 
