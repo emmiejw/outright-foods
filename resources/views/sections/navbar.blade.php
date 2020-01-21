@@ -1,15 +1,18 @@
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #414858; color:white;">
-        {{-- <a class="navbar-brand" href="#">Outright Foods</a> --}}
+        {{-- <img src="/images/utensils.rotated.png" style="border:none; float:right;" alt=""> --}}
         <div class="row">
-            <div class="col-3">
-                {{-- <img src="/images/whisk.jpg" alt=""style="height:50px; width:30px;" >/ --}}
-
+            <div class="col-3"
+                {{-- <img src="/images/utensils.rotated.png" style="border:none; float:right;" alt=""> --}}
             </div>
+         
+
             <div class="col-3"></div>
             <div class="col-3"></div>
             <div class="col-3"></div>            
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <span class="">
+              <img src="/images/utensils.rotated.png" style="border:none; height:75px;  width:90px; rotate:90%" alt="">
+          </span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
