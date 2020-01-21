@@ -255,7 +255,56 @@
                 </div>
                 <div id="collapseSix" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                    
+                            <h5 class="my-2" style="font-weight:600;">Menu 1</h5>
+                            <h5>£15.00 per person</h5>
+                
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                <ul style="list-style-type: none;  margin: 0;
+                                      padding: 0;">
+                                           <li>Coq au Vin</li>
+                                           <li>Fish Pie, lemon & dill</li>
+                                           <li>Roasted Vegetable & Chickpea
+                                           Tagine(v)</li>
+                                          <li> Stuffed Jacket Potatoes (v)</li>
+                                           <li>Tossed Mixed Salad (v)</li>
+                                           <li>Crusty Bread & Butter (v)</li>
+                                            .  .  . 
+                                          <li> Profiteroles, chocolate sauce (v)</li>
+                                          <li> Fruit platter (v)</li>
+                            </ul>
+                            <hr>
+                            <h5 class="my-2" style="font-weight:600;">Menu 2</h5>
+                            <h5>£17.50 per person</h5>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                <li>Beef Stroganoff, herb rice</li>
+                                <li>Thai Spiced Vegetable Curry, rice (v)</li>
+                                <li>Seafood Paella</li>
+                                <li>Buttered New Potatoes, chive (v)</li>
+                                <li>Crusty Bread & Butter (v)</li>
+                                <li>Seasonal Mixed Leaf Salad (v)</li>
+                                <li>Tomato, Red Onion & Basil salad (v)</li>
+                                 . . .
+                                <li>Eton Mess (v)</li>
+                                <li>Mini Banoffee Pies (v)</li>
+                            </ul>
+                            <hr>
+                            <h5 class="my-2" style="font-weight:600;">Menu 2</h5>
+                            <h5>£20.00 per person</h5>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                  <li>Beef Bourguignon, saffron rice</li>
+                                 <li> Salmon en Croute</li>
+                                  <li>Vegetarian Shepherd’s Pie, sweet potato mash (v)</li>
+                                  <li>Hassle Back Potatoes, smoked bacon or blue cheese (v)</li>
+                                  <li>Crusty Bread & Butter (v)</li>
+                                  <li>Seasonal Mixed Leaf Salad (v)</li>
+                                  <li>Coleslaw (v)</li>
+                                  . . .
+                                  <li>Chocolate Brownie (v)</li>
+                                  <li>Mini Lemon Meringue Pies (v)</li>
+                            </ul>
                     </div>
                 </div>
             </div>
@@ -267,8 +316,48 @@
                 </div>
                 <div id="collapseSeven" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                    
-                    </div>
+                            <p style="font-weight:600;">Choice of four BBQ options, two salads and two desserts - £18</p>
+                            <p style="font-weight:600;">Choice of five BBQ options, three salads and three desserts - £20</p>
+                            <p style="font-weight:600;"> Choice of seven BBQ options, four salads and three desserts - £22</p>
+                                <ul style="list-style-type: none;  margin: 0;
+                                padding: 0;">
+                                       <li>Beef Burgers</li>
+                                       <li>Cumberland Sausages</li>
+                                       <li>Cajun Chicken</li>
+                                       <li>Lamb Kofta, Mint yoghurt</li>
+                                       <li>Roasted Vegetable Kebabs (v)</li>
+                                       <li>Seared Minute Steaks</li>
+                                       <li>Prawn & Salmon Brochettes</li>
+                                       <li>Cajun Spiced Chicken Breast</li>
+                                        <li>BBQ Pulled Pork</li>
+                                        <li>Corn on the Cob (v)</li>
+                                        <li>Lemon & Thyme Chicken</li>
+                                        <li>Pork Escalope, sage & mustard</li>
+                                        <li>Lamb Noisette, mint & olive oil</li>
+                                        <li>Peppered Mackerel fillets</li>
+                                </ul>
+                                <hr>
+                                <h3>Salads</h3>
+                                <ul style="list-style-type: none;  margin: 0;
+                                padding: 0;">
+                                        <li>Baby Potato Salad (v)</li>
+                                        <li>Pasta & Provencal Vegetable (v)</li>
+                                        <li>Cous Cous (v)</li>
+                                        <li>Coleslaw (v)</li>
+                                        <li>Seasonal Mixed Leaf (v)</li>
+                                        <li>Tomato, Red Onion & Basil (v)</li>
+                                </ul>
+                                <hr>
+                                <h3>Deserts</h3>
+                                <ul style="list-style-type: none;  margin: 0;
+                                padding: 0;">
+                                     <li>Mini Lemon Meringue Pies (v)</li>
+                                     <li>Eton Mess (v)</li>
+                                     <li>Victoria Sponge (v)</li>
+                                     <li>Mini Banoffee Pies (v)</li>
+                                     <li>Fruit Platter (v)</li>
+                                </ul>
+                        </div>
                 </div>
             </div>
             <div class="card">
@@ -279,7 +368,26 @@
                 </div>
                 <div id="collapseEight" class="collapse" data-parent="#accordion">
                     <div class="card-body" style="color:black;">
-                      
+                            <p style="font-weight:600;">Choice of three canapes - £5 per person</p>
+                            <p style="font-weight:600;">Choice of five canapes - £7 per person</p>
+                            <p style="font-weight:600;"> Choice of seven canapes - £9 per person</p>
+                            <ul style="list-style-type: none;  margin: 0;
+                            padding: 0;">
+                                 <li>Stuffed Baby Red Peppers, <br> chive cream cheese (v)</li>
+                                 <li>Ham Hock Beignet, piccalilli</li>
+                                 <li>Salt Cod Fish Cake, aioli</li>
+                                 <li>Mini Cheeseburger</li>
+                                 <li>Watermelon, Cured Ham & Feta</li>
+                                 <li>Smoked Salmon & Pea Vol au vents</li>
+                                 <li>Tomato, Red Onion & Basil Bruschetta (v)</li>
+                                 <li>Mini Lamb Kebab Skewers, mint yoghurt</li>
+                                <li> Crispy Prawns, sweet chilli dip</li>
+                                 <li>Chilli Crab Cake, wasabi mayonnaise</li>
+                                 <li>Sausages & Bacon, red onion jam</li>
+                                 <li>Halloumi Skewers, hummus (v)</li>
+                                 <li>Smoked Haddock & Spinach Quiche</li>
+                                 <li>Mushroom & Tarragon Arancini, spicy tomato salsa (v)</li>
+                    </div>
                     </div>
                 </div>
             </div>
