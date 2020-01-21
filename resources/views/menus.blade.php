@@ -3,9 +3,8 @@
 @section('content')
 <div class="container menu">
     @include('sections.navbar')
-    <div class="text-center">
-        <h1 class="display-3  p-2 " style="text-shadow: 3px 2px black;">Outright Foods
-        </h1>
+    <h1 class="display-3  p-2 "  style="text-shadow: 3px 2px black;">Outright Foods</h1>
+    <div >
         <h3>Function & Catering Menu</h3>
         <div>. . . . </div>
 

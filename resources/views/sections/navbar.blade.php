@@ -11,7 +11,7 @@
             <div class="col-3"></div>            
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none;">
           <span>
-              <img src="/images/utensils.rotated.png" style="border:none; height:55px;  width:60px; rotate:90%; float-left;" alt="">
+              <img src="/images/utensils.rotated.png" style="border:none; height:55px;  width:60px;" alt="Utensils menu image">
               <p style="color:black;">Menu</p>
           </span>
         </button>
@@ -34,4 +34,5 @@
             </li>
           </ul>
         </div>
+          </h1>
       </nav>
