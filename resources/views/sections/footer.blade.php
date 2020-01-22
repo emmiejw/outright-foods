@@ -9,5 +9,7 @@
                                 Emily Wallace - Price
                          </a>
                         </h5>
+                        <br>
+                        <h5>Copyright © {{ date('Y') }} </h5>
                 </div>
 </div>

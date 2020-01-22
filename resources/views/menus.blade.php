@@ -17,7 +17,7 @@
                     cross contamination by other ingredients.
                     If you require any information or have any questions regarding
                     ingredients, food intolerances & allergies or general menu enquiries,
-                    please contact outrightfoods@gmail.com at the time of confirming
+                    please contact <a href="mailto:outrightfoods@gmail.com">outrightfoods@gmail.com</a> at the time of confirming
                     your booking so that your requests can be met.
             </p>
         </div>

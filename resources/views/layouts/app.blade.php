@@ -38,6 +38,11 @@
             padding: 2rem;
         }
 
+        .intro {
+            background-color: #414858;
+            color: gainsboro;
+
+        }
 
 
         .price {
