@@ -21,24 +21,36 @@
             font-family: 'Roboto', sans-serif;
             height: 100vh;
             margin: 0;
+            display: grid;
+            place-items: center;
+            color: gainsboro;
         }
 
-        .intro {
-            background-color: #414858;
-            color: gainsboro;
-            border: 1px solid white;
+        .module-border-wrap {
+            /* padding: 1rem; */
+            position: relative;
+            background: linear-gradient(to right, #022947, gray, silver, white);
+            padding: 6px;
         }
+
+        .module {
+            background:  #414858;
+            color: white;
+            padding: 2rem;
+        }
+
+
 
         .price {
             background-color: #414858;
             color: gainsboro;
-            border: 1px solid white;
+
         }
 
         .menu {
             background-color: #414858;
             color: gainsboro;
-            border: 1px solid white;
+
         }
 
         .flex-center {
@@ -47,7 +59,8 @@
             justify-content: center;
         }
 
-        h1,a {
+        h1,
+        a {
             font-family: 'Handlee', cursive;
             font-weight: bold;
 
@@ -120,9 +133,9 @@
 </head>
 
 <body>
-        <main class="text-center">
+    <main class="text-center module-border-wrap">
         @yield('content')
-    </main>   
+    </main>
     @extends('sections.footer')
 </body>
 

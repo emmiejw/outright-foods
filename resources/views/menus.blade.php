@@ -1,13 +1,24 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container menu">
+<div class="container menu p-2">
     @include('sections.navbar')
     <h1 class="display-3  p-2 "  style="text-shadow: 3px 2px black;">Outright Foods</h1>
     <div >
         <h3>Function & Catering Menu</h3>
         <div>. . . . </div>
-
+        <div class="jumbotron mt-2" style="border:1px solid gray; color:#414858; ">
+            <h3>Allergies</h3>
+            <p>
+                    Whilst a dish may not contain a specific allergen, because of the wide
+                    range of ingredients used, foods may or may not have been at risk of
+                    cross contamination by other ingredients.
+                    If you require any information or have any questions regarding
+                    ingredients, food intolerances & allergies or general menu enquiries,
+                    please contact outrightfoods@gmail.com at the time of confirming
+                    your booking so that your requests can be met.
+            </p>
+        </div>
         <div id="accordion" class="my-3">
             <div class="card">
                 <div class="card-header">

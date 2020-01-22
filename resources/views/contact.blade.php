@@ -25,7 +25,7 @@
                   <br>
                   <a href="mailto: outrightfoods@gmail.com"style="font-size:x-large; color:white;"> outrightfoods@gmail.com</a>
                   <br>
-                  <h3 class="m-2">Thank you for visiting & hope to hear from you soon </h3>
+                  <h3 class="m-2">Thank you for visiting & we hope to hear from you soon </h3>
               </p>
        </div>
 </div>
