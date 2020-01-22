@@ -25,5 +25,10 @@
                   <span class="carousel-control-next-icon"></span>
                 </a>
               </div>
-              <a href="/gallery" style="font-size:12px;" class="px-auto">View our full photo gallery here . . .</a> 
+            
 </div>
+<a href="/gallery" class="text-center p-1" style="color:black;">
+  <h5>
+      View our full photo gallery here . . .
+  </h5>
+</a> 

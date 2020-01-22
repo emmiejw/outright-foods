@@ -1,4 +1,6 @@
-@extends('layouts.app')
+@extends('layouts.app', [
+    'title' => 'Food Menus'
+])
 
 @section('content')
 <div class="container menu p-2">
@@ -7,7 +9,7 @@
     <div >
         <h3>Function & Catering Menu</h3>
         <div>. . . . </div>
-        <div class="jumbotron mt-2" style="border:1px solid gray; color:#414858; ">
+        <div class="jumbotron m-2" style="border:1px solid gray; color:#414858; ">
             <h3>Allergies</h3>
             <p>
                     Whilst a dish may not contain a specific allergen, because of the wide
@@ -19,15 +21,16 @@
                     your booking so that your requests can be met.
             </p>
         </div>
-        <div id="accordion" class="my-3">
-            <div class="card">
-                <div class="card-header">
+        <br>
+        <div id="accordion" class="m-2">
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="card-link" data-toggle="collapse" href="#collapseOne"style="font-size:20px; color:#414858;">
                         Childrens Buffet Menus
                     </a>
                 </div>
                 <div id="collapseOne" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                         <h3 style="font-weight:700;">Menu 1</h3>
                         <h5 style="font-weight:600;">£7 per person</h5>
                         <ul style="list-style-type: none;  margin: 0;
@@ -75,14 +78,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo"style="font-size:20px; color:#414858;">
                         Children's Afternoon Tea
                     </a>
                 </div>
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                             <h5 style="font-weight:600;">£6.50 per person</h5>
                             <ul style="list-style-type: none;  margin: 0;
                             padding: 0;">
@@ -97,14 +101,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree"style="font-size:20px; color:#414858;">
                         Finger Buffet
                     </a>
                 </div>
                 <div id="collapseThree" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                         <p style="font-weight:600;">Choice of four buffet options, two salads and two desserts - £10</p>
                         <p style="font-weight:600;">Choice of five buffet options, three salads and three desserts - £14</p>
                         <p style="font-weight:600;"> Choice of seven buffet options, four salads and three desserts - £18</p>
@@ -163,14 +168,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour"style="font-size:20px; color:#414858;">
                         Cream Tea
                     </a>
                 </div>
                 <div id="collapseFour" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                             <h5 style="font-weight:600;">£5 per person</h5>
                             <ul style="list-style-type: none;  margin: 0;
                             padding: 0;">
@@ -182,14 +188,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive"style="font-size:20px; color:#414858;">
                         Afternoon Tea
                     </a>
                 </div>
                 <div id="collapseFive" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                     <h5>£12.95 per person</h5>
                     <p style=" text-decoration: underline;">Sandwiches</p>
                     <ul style="list-style-type: none;  margin: 0;
@@ -257,14 +264,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseSix"style="font-size:20px; color:#414858;">
                         Hot Fork Buffet
                     </a>
                 </div>
                 <div id="collapseSix" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                             <h5 class="my-2" style="font-weight:600;">Menu 1</h5>
                             <h5>£15.00 per person</h5>
                 
@@ -318,14 +326,15 @@
                     </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven"style="font-size:20px;  color:#414858;">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey;">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseSeven"style="font-size:20px;  color:#414858; ">
                         BBQ Menu
                     </a>
                 </div>
                 <div id="collapseSeven" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                             <p style="font-weight:600;">Choice of four BBQ options, two salads and two desserts - £18</p>
                             <p style="font-weight:600;">Choice of five BBQ options, three salads and three desserts - £20</p>
                             <p style="font-weight:600;"> Choice of seven BBQ options, four salads and three desserts - £22</p>
@@ -370,14 +379,15 @@
                         </div>
                 </div>
             </div>
-            <div class="card">
-                <div class="card-header">
+            <br>
+            <div class="card module-border-wrap ">
+                <div class="card-header" style="background-color:lightgrey">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseEight" style="font-size:20px; color: #414858;">
                         Canapes
                     </a>
                 </div>
                 <div id="collapseEight" class="collapse" data-parent="#accordion">
-                    <div class="card-body" style="color:black;">
+                    <div class="card-body" style="color:black; background-color:white;">
                             <p style="font-weight:600;">Choice of three canapes - £5 per person</p>
                             <p style="font-weight:600;">Choice of five canapes - £7 per person</p>
                             <p style="font-weight:600;"> Choice of seven canapes - £9 per person</p>

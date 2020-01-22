@@ -17,9 +17,9 @@
                     function.
             </b>
      </p>
-     <a href="/food-menus" class="text-center">
+     <a href="/food-menus" class="text-center" style="color:lightgray">
             <h5>View Our Menu here . . . </h5>
      </a>
-     
+     <br>
 
 </div>

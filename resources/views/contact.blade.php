@@ -1,4 +1,6 @@
-@extends('layouts.app')
+@extends('layouts.app', [
+    'title' => 'Contact Us'
+])
 
 @section('content')
 <div class="container menu" >

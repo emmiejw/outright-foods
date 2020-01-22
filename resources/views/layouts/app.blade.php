@@ -27,10 +27,9 @@
         }
 
         .module-border-wrap {
-            /* padding: 1rem; */
             position: relative;
             background: linear-gradient(to right, #022947, gray, silver, white);
-            padding: 6px;
+            padding: 9px;
         }
 
         .module {
