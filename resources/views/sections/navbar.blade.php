@@ -4,7 +4,7 @@
             <div class="col-3"
                 {{-- <img src="/images/utensils.rotated.png" style="border:none; float:right;" alt=""> --}}
             </div>
-        <button class="navbar-toggler card module-border-wrap-button " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none; margin-top: -20px; margin-left: -30px;">
+        <button class="navbar-toggler card module-border-wrap-button " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none; ">
           <span class="module-button">
               <img src="/images/utensils.rotated.png" style="border:none; height:55px;  width:60px; margin:5px;" alt="Utensils menu image">
           </span>
