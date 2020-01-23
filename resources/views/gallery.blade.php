@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="container menu ">
-        @include('sections.navbar')
+   @include('sections.navbar')
         <h1 class="display-3  p-2 "  style="text-shadow: 3px 2px black;">Outright Foods</h1>
         <div class="panel-group">
                 <div class="panel panel-info">

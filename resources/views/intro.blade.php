@@ -1,4 +1,4 @@
- <div class="container intro module" >
+ <div class="container intro" >
      @include('sections.navbar')
      <h1 class="display-3  p-2 mt-4"  style="text-shadow: 3px 2px black;">Outright Foods</h1>
             <h3 class="p-2">
