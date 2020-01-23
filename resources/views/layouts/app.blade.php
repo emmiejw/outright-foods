@@ -37,6 +37,14 @@
             color: white;
             padding: 2rem;
         }
+        .module-border-wrap-button {
+            position: relative;
+            background: linear-gradient(to left, #022947, gray, silver, white);
+            padding: 3px;
+        }
+        .module-button {
+            background:  #414858;
+        }
 
         .intro {
             background-color: #414858;

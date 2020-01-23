@@ -4,19 +4,13 @@
             <div class="col-3"
                 {{-- <img src="/images/utensils.rotated.png" style="border:none; float:right;" alt=""> --}}
             </div>
-         
-
-            <div class="col-3"></div>
-            <div class="col-3"></div>
-            <div class="col-3"></div>            
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none;">
-          <span>
-              <img src="/images/utensils.rotated.png" style="border:none; height:55px;  width:60px;" alt="Utensils menu image">
-              <p style="color:black;">Menu</p>
+        <button class="navbar-toggler card module-border-wrap-button " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border:none; margin-top: -20px; margin-left: -30px;">
+          <span class="module-button">
+              <img src="/images/utensils.rotated.png" style="border:none; height:55px;  width:60px; margin:5px;" alt="Utensils menu image">
           </span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
+          <ul class="navbar-nav" style="margin-left: -30px;">
             <li class="nav-item active">
               <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
             </li>
