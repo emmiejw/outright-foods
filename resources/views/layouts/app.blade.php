@@ -3,7 +3,9 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -20,12 +22,12 @@
         html {
             font-family: 'Roboto', sans-serif;
             height: 100vh;
+            width:fit-content;
             margin: 0;
             display: grid;
             place-items: center;
             color: gainsboro;
         }
-
         .module-border-wrap {
             position: relative;
             background: linear-gradient(to right, #022947, gray, silver, white);
@@ -145,7 +147,7 @@
 </head>
 
 <body>
-    <main class="text-center module-border-wrap">
+    <main class="container-fluid text-center module-border-wrap">
         @yield('content')
     </main>
     @extends('sections.footer')
