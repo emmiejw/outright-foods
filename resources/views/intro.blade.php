@@ -8,7 +8,7 @@
         </h3>
            <img src="/images/4.jpg" alt="" style="height:50%; width:75%; margin:auto;" class="">
            <section>
-                <p class=" m-2" >
+                <p class=" m-3" >
                         <b lass="mx-2">
                                 Experienced and professional Chefs offering a range of catering
                                 services from birthday parties and large family celebrations to
@@ -21,5 +21,5 @@
                             <br>
                             <b>. . . . . . </b>
                      </p>
-           </section>
+           </section> 
 </div>
