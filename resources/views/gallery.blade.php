@@ -16,6 +16,7 @@
                                         <img src="/images/image (2).jpg" alt="">
                                         <img src="/images/image (3).jpg" alt="">
                                         <img src="/images/image (4).jpg" alt="">
+                                        <img src="/images/image.png" alt="">
                                         <img src="/images/card.jpg" alt="">
                                         <img src="/images/1.jpg" alt="">
                                         <img src="/images/image (1).jpg" alt="">
