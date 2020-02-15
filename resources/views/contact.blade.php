@@ -3,7 +3,7 @@
 ])
 
 @section('content')
-<div class="container menu" >
+<div class="menu" >
         @include('sections.navbar')
         <h1 class="display-3  p-2 "  style="text-shadow: 3px 2px black;">Outright Foods</h1>
        <div>
@@ -27,8 +27,10 @@
                   <br>
                   <a href="mailto: outrightfoods@gmail.com"style="font-size:x-large; color:white;"> outrightfoods@gmail.com</a>
                   <br>
-                  <h3 class="m-2">Thank you for visiting & we hope to hear from you soon </h3>
+                  <h3 class="m-2">Thank you for visiting & we look forward to hear from you soon </h3>
               </p>
+              <img src="/images/puddings.jpg" alt="">
+              <br>
        </div>
 </div>
 

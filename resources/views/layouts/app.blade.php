@@ -21,13 +21,10 @@
     <style>
         html {
             font-family: 'Roboto', sans-serif;
-            height: 100vh;
-            width:fit-content;
-            margin: 0;
-            display: grid;
             place-items: center;
             color: gainsboro;
         }
+
         .module-border-wrap {
             position: relative;
             background: linear-gradient(to right, #022947, gray, silver, white);
@@ -35,17 +32,19 @@
         }
 
         .module {
-            background:  #414858;
+            background: #414858;
             color: white;
             padding: 2rem;
         }
+
         .module-border-wrap-button {
             position: relative;
             background: linear-gradient(to left, #022947, gray, silver, white);
             padding: 3px;
         }
+
         .module-button {
-            background:  #414858;
+            background: #414858;
         }
 
         .intro {
@@ -96,9 +95,7 @@
         }
 
         #photos {
-
             line-height: 0;
-
             -webkit-column-count: 5;
             -webkit-column-gap: 0px;
             -moz-column-count: 5;
@@ -147,7 +144,7 @@
 </head>
 
 <body>
-    <main class="container-fluid text-center module-border-wrap">
+    <main class=" w-screen text-center module-border-wrap">
         @yield('content')
     </main>
     @extends('sections.footer')

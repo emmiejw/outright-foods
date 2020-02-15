@@ -1,4 +1,4 @@
- <div class="container price" >
+ <div class="price" >
      <h1 class="text-center p-2 mt-2">Booking, Deposits & Cancellations</h1>
      <p class="text-center">
             To make a booking, please email us at <a href="mailto:outrightfoods@gmail.com" style="color:white; font-size:24px;">outrightfoods@gmail.com</a>

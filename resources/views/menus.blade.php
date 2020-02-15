@@ -3,7 +3,7 @@
 ])
 
 @section('content')
-<div class="container menu p-2">
+<div class="menu p-2">
     @include('sections.navbar')
     <h1 class="display-3  p-2 "  style="text-shadow: 3px 2px black;">Outright Foods</h1>
     <div >
